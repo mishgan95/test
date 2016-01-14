@@ -1,0 +1,199 @@
+C:\Users\dartNNN\Documents\Galaxy\Build\Galaxy.exe.config
+C:\Users\dartNNN\Documents\Galaxy\Build\Galaxy.exe
+C:\Users\dartNNN\Documents\Galaxy\Build\Galaxy.pdb
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\deth.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\FailScreen.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\StartScreen.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\bullet.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\LevelOne.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\player.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\ship.png
+E:\ПИ\Galaxy\Build\Galaxy.exe.config
+E:\ПИ\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
+E:\ПИ\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb
+E:\ПИ\Galaxy\Build\Assets\deth.png
+E:\ПИ\Galaxy\Build\Assets\FailScreen.png
+E:\ПИ\Galaxy\Build\Assets\StartScreen.png
+E:\ПИ\Galaxy\Build\Assets\bullet.png
+E:\ПИ\Galaxy\Build\Assets\LevelOne.png
+E:\ПИ\Galaxy\Build\Assets\player.png
+E:\ПИ\Galaxy\Build\Assets\ship.png
+E:\ПИ\Galaxy\Build\Galaxy.exe
+E:\ПИ\Galaxy\Build\Galaxy.pdb
+E:\ПИ\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+E:\ПИ\Galaxy\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+E:\ПИ\Galaxy\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+E:\ПИ\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\Galaxy\Build\Galaxy.exe.config
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\Galaxy\Build\Assets\deth.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\Galaxy\Build\Assets\FailScreen.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\Galaxy\Build\Assets\StartScreen.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\Galaxy\Build\Assets\bullet.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\Galaxy\Build\Assets\LevelOne.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\Galaxy\Build\Assets\player.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\Galaxy\Build\Assets\ship.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\Galaxy\Build\Galaxy.exe
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\Galaxy\Build\Galaxy.pdb
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\Galaxy\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\Galaxy\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\Galaxy\Build\Assets\shar.jpg
+C:\Users\MarS0K\Downloads\Galaxy\Build\Galaxy.exe.config
+C:\Users\MarS0K\Downloads\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
+C:\Users\MarS0K\Downloads\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb
+C:\Users\MarS0K\Downloads\Galaxy\Build\Assets\deth.png
+C:\Users\MarS0K\Downloads\Galaxy\Build\Assets\FailScreen.png
+C:\Users\MarS0K\Downloads\Galaxy\Build\Assets\StartScreen.png
+C:\Users\MarS0K\Downloads\Galaxy\Build\Assets\bullet.png
+C:\Users\MarS0K\Downloads\Galaxy\Build\Assets\LevelOne.png
+C:\Users\MarS0K\Downloads\Galaxy\Build\Assets\player.png
+C:\Users\MarS0K\Downloads\Galaxy\Build\Assets\ship.png
+C:\Users\MarS0K\Downloads\Galaxy\Build\Galaxy.exe
+C:\Users\MarS0K\Downloads\Galaxy\Build\Galaxy.pdb
+C:\Users\MarS0K\Downloads\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+C:\Users\MarS0K\Downloads\Galaxy\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+C:\Users\MarS0K\Downloads\Galaxy\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+C:\Users\MarS0K\Downloads\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+C:\Users\MarS0K\SkyDrive\Учеба\9 семестр\Projects\Galaxy\Build\Galaxy.exe.config
+C:\Users\MarS0K\SkyDrive\Учеба\9 семестр\Projects\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
+C:\Users\MarS0K\SkyDrive\Учеба\9 семестр\Projects\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb
+C:\Users\MarS0K\SkyDrive\Учеба\9 семестр\Projects\Galaxy\Build\Assets\deth.png
+C:\Users\MarS0K\SkyDrive\Учеба\9 семестр\Projects\Galaxy\Build\Assets\FailScreen.png
+C:\Users\MarS0K\SkyDrive\Учеба\9 семестр\Projects\Galaxy\Build\Assets\StartScreen.png
+C:\Users\MarS0K\SkyDrive\Учеба\9 семестр\Projects\Galaxy\Build\Assets\bullet.png
+C:\Users\MarS0K\SkyDrive\Учеба\9 семестр\Projects\Galaxy\Build\Assets\LevelOne.png
+C:\Users\MarS0K\SkyDrive\Учеба\9 семестр\Projects\Galaxy\Build\Assets\player.png
+C:\Users\MarS0K\SkyDrive\Учеба\9 семестр\Projects\Galaxy\Build\Assets\ship.png
+C:\Users\MarS0K\SkyDrive\Учеба\9 семестр\Projects\Galaxy\Build\Galaxy.exe
+C:\Users\MarS0K\SkyDrive\Учеба\9 семестр\Projects\Galaxy\Build\Galaxy.pdb
+C:\Users\MarS0K\SkyDrive\Учеба\9 семестр\Projects\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+C:\Users\MarS0K\SkyDrive\Учеба\9 семестр\Projects\Galaxy\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+C:\Users\MarS0K\SkyDrive\Учеба\9 семестр\Projects\Galaxy\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+C:\Users\MarS0K\SkyDrive\Учеба\9 семестр\Projects\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+C:\Users\MarS0K\Documents\Visual Studio 2015\Projects\Galaxy\Build\Galaxy.exe.config
+C:\Users\MarS0K\Documents\Visual Studio 2015\Projects\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
+C:\Users\MarS0K\Documents\Visual Studio 2015\Projects\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb
+C:\Users\MarS0K\Documents\Visual Studio 2015\Projects\Galaxy\Build\Assets\deth.png
+C:\Users\MarS0K\Documents\Visual Studio 2015\Projects\Galaxy\Build\Assets\FailScreen.png
+C:\Users\MarS0K\Documents\Visual Studio 2015\Projects\Galaxy\Build\Assets\StartScreen.png
+C:\Users\MarS0K\Documents\Visual Studio 2015\Projects\Galaxy\Build\Assets\bullet.png
+C:\Users\MarS0K\Documents\Visual Studio 2015\Projects\Galaxy\Build\Assets\LevelOne.png
+C:\Users\MarS0K\Documents\Visual Studio 2015\Projects\Galaxy\Build\Assets\player.png
+C:\Users\MarS0K\Documents\Visual Studio 2015\Projects\Galaxy\Build\Assets\ship.png
+C:\Users\MarS0K\Documents\Visual Studio 2015\Projects\Galaxy\Build\Galaxy.exe
+C:\Users\MarS0K\Documents\Visual Studio 2015\Projects\Galaxy\Build\Galaxy.pdb
+C:\Users\MarS0K\Documents\Visual Studio 2015\Projects\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+C:\Users\MarS0K\Documents\Visual Studio 2015\Projects\Galaxy\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+C:\Users\MarS0K\Documents\Visual Studio 2015\Projects\Galaxy\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+C:\Users\MarS0K\Documents\Visual Studio 2015\Projects\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+D:\учеба\3 курс 1 семестр\Программная инженерия\архив\Galaxy\Build\Galaxy.exe.config
+D:\учеба\3 курс 1 семестр\Программная инженерия\архив\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
+D:\учеба\3 курс 1 семестр\Программная инженерия\архив\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb
+D:\учеба\3 курс 1 семестр\Программная инженерия\архив\Galaxy\Build\Assets\deth.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\архив\Galaxy\Build\Assets\FailScreen.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\архив\Galaxy\Build\Assets\StartScreen.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\архив\Galaxy\Build\Assets\bullet.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\архив\Galaxy\Build\Assets\LevelOne.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\архив\Galaxy\Build\Assets\player.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\архив\Galaxy\Build\Assets\ship.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\архив\Galaxy\Build\Galaxy.exe
+D:\учеба\3 курс 1 семестр\Программная инженерия\архив\Galaxy\Build\Galaxy.pdb
+D:\учеба\3 курс 1 семестр\Программная инженерия\архив\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+D:\учеба\3 курс 1 семестр\Программная инженерия\архив\Galaxy\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+D:\учеба\3 курс 1 семестр\Программная инженерия\архив\Galaxy\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+D:\учеба\3 курс 1 семестр\Программная инженерия\архив\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\2 лаба\Galaxy\Build\Galaxy.exe.config
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\2 лаба\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\2 лаба\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\2 лаба\Galaxy\Build\Assets\deth.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\2 лаба\Galaxy\Build\Assets\FailScreen.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\2 лаба\Galaxy\Build\Assets\StartScreen.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\2 лаба\Galaxy\Build\Assets\bullet.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\2 лаба\Galaxy\Build\Assets\LevelOne.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\2 лаба\Galaxy\Build\Assets\player.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\2 лаба\Galaxy\Build\Assets\ship.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\2 лаба\Galaxy\Build\Galaxy.exe
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\2 лаба\Galaxy\Build\Galaxy.pdb
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\2 лаба\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\2 лаба\Galaxy\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\2 лаба\Galaxy\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\2 лаба\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\3 лаба\Galaxy\Build\Galaxy.exe.config
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\3 лаба\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\3 лаба\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\3 лаба\Galaxy\Build\Assets\deth.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\3 лаба\Galaxy\Build\Assets\FailScreen.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\3 лаба\Galaxy\Build\Assets\StartScreen.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\3 лаба\Galaxy\Build\Assets\bullet.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\3 лаба\Galaxy\Build\Assets\LevelOne.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\3 лаба\Galaxy\Build\Assets\player.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\3 лаба\Galaxy\Build\Assets\ship.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\3 лаба\Galaxy\Build\Galaxy.exe
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\3 лаба\Galaxy\Build\Galaxy.pdb
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\3 лаба\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\3 лаба\Galaxy\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\3 лаба\Galaxy\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\3 лаба\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба\Galaxy\Build\Galaxy.exe.config
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба\Galaxy\Build\Assets\deth.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба\Galaxy\Build\Assets\FailScreen.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба\Galaxy\Build\Assets\StartScreen.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба\Galaxy\Build\Assets\bullet.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба\Galaxy\Build\Assets\LevelOne.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба\Galaxy\Build\Assets\player.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба\Galaxy\Build\Assets\ship.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба\Galaxy\Build\Galaxy.exe
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба\Galaxy\Build\Galaxy.pdb
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба\Galaxy\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба\Galaxy\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба сделанная\Galaxy\Build\Galaxy.exe.config
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба сделанная\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба сделанная\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба сделанная\Galaxy\Build\Assets\deth.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба сделанная\Galaxy\Build\Assets\FailScreen.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба сделанная\Galaxy\Build\Assets\StartScreen.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба сделанная\Galaxy\Build\Assets\bullet.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба сделанная\Galaxy\Build\Assets\LevelOne.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба сделанная\Galaxy\Build\Assets\player.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба сделанная\Galaxy\Build\Assets\ship.png
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба сделанная\Galaxy\Build\Galaxy.exe
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба сделанная\Galaxy\Build\Galaxy.pdb
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба сделанная\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба сделанная\Galaxy\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба сделанная\Galaxy\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+D:\учеба\3 курс 1 семестр\Программная инженерия\ПИ\4 лаба сделанная\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+D:\Misha\Desktop\Build\Galaxy.exe.config
+D:\Misha\Desktop\Source\Galaxy\obj\Debug\Galaxy.exe
+D:\Misha\Desktop\Source\Galaxy\obj\Debug\Galaxy.pdb
+D:\Misha\Desktop\Build\Assets\deth.png
+D:\Misha\Desktop\Build\Assets\FailScreen.png
+D:\Misha\Desktop\Build\Assets\StartScreen.png
+D:\Misha\Desktop\Build\Galaxy.exe
+D:\Misha\Desktop\Build\Galaxy.pdb
+D:\Misha\Desktop\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+D:\Misha\Desktop\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+D:\Misha\Desktop\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+D:\Misha\Desktop\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+D:\Misha\Desktop\Build\Assets\bullet.png
+D:\Misha\Desktop\Build\Assets\greenship.png
+D:\Misha\Desktop\Build\Assets\LevelOne.png
+D:\Misha\Desktop\Build\Assets\lighting.png
+D:\Misha\Desktop\Build\Assets\player.png
+D:\Misha\Desktop\Build\Assets\redship.png
+D:\Misha\Desktop\Build\Assets\ship.png
+D:\Misha\Documents\GitHub\dolgov2\Build\Galaxy.exe.config
+D:\Misha\Documents\GitHub\dolgov2\Source\Galaxy\obj\Debug\Galaxy.exe
+D:\Misha\Documents\GitHub\dolgov2\Source\Galaxy\obj\Debug\Galaxy.pdb
